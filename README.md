@@ -27,8 +27,4 @@ The database consists of the following tables:
 - Which diagnoses are most common across all the patients and what percentage of total amount do they represent.
 - What is the average billing amount per appointment for each department, sorted from highest to lowest?
 -  Which patients have had multiple appointments for the same diagnosis, and how many such appointments exist per patient?
-
----
-
-
-## 📌 Project Structure
+ 
